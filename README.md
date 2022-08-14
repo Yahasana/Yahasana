@@ -3,4 +3,3 @@
 
 [![Yahasana's gitHub trophy](https://github-profile-trophy.vercel.app/?username=Yahasana&row=2&column=9&margin-w=15&margin-h=15&no-frame=true)](https://github-profile-trophy.vercel.app/?username=Yahasana)
 
-[![Yahasana's activity graph](https://activity-graph.herokuapp.com/graph?username=Yahasana&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=Yahasana&theme=react-dark)
